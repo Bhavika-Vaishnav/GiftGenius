@@ -124,10 +124,3 @@ The database is created automatically when the application starts.
 ## 👩‍💻 Author
 
 **Bhavika Vaishnav**
-
-B.E. Electronics & Telecommunication Engineering  
-Specialization: Artificial Intelligence & Machine Learning
-
----
-
-⭐ If you find this project interesting, consider giving the repository a star!
