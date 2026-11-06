@@ -1,0 +1,52 @@
+
+gift_id,gift_name,category,price,recipient,interests,occasion,description
+1,Personalized Sketchbook,Stationery,599,Friend;Sister,Art;Sketching,Birthday,Premium sketchbook for creative people
+2,Bluetooth Mini Speaker,Electronics,1299,Friend;Brother,Music;Technology,Birthday,Portable speaker for music lovers
+3,Travel Organizer,Travel,799,Friend;Mother,Travel;Organization,Anniversary,Useful organizer for travel essentials
+4,Customized Photo Frame,Personalized,499,Friend;Mother;Sister,Photography;Memories,Anniversary,Personalized frame for special memories
+5,Wireless Headphones,Electronics,1499,Friend;Brother;Sister,Music;Technology,Graduation,Comfortable headphones for everyday use
+6,Watercolor Paint Set,Art,699,Friend;Sister,Art;Sketching,Birthday,Watercolor set for creative painting
+7,Professional Art Markers,Art,899,Friend;Sister,Art;Sketching,Birthday,Colorful markers for drawing and illustration
+8,Calligraphy Pen Set,Stationery,449,Friend;Sister,Art;Reading,Birthday,Calligraphy pens for beautiful lettering
+9,Canvas Painting Kit,Art,799,Friend;Sister,Art;Sketching,Just Because,Complete kit for canvas painting
+10,Digital Drawing Pad,Electronics,2499,Friend;Brother;Sister,Art;Technology,Digital drawing tablet for artists
+11,Wireless Mouse,Electronics,699,Friend;Brother;Sister,Technology,Birthday,Comfortable wireless computer mouse
+12,Mechanical Keyboard,Electronics,1999,Friend;Brother,Technology,Graduation,Mechanical keyboard for computer enthusiasts
+13,Mobile Stand,Electronics,299,Friend;Brother;Sister,Technology;Photography,Birthday,Adjustable mobile phone stand
+14,Power Bank,Electronics,1199,Friend;Brother;Sister,Technology;Travel,Graduation,Portable power bank for daily use
+15,Smart LED Lamp,Home,999,Friend;Mother;Brother,Technology;Fashion,Birthday,Modern LED lamp for a stylish room
+16,Classic Wrist Watch,Fashion,1499,Friend;Brother;Father,Fashion,Birthday,Classic wrist watch for everyday wear
+17,Handbag,Fashion,1299,Mother;Sister;Partner,Fashion,Anniversary,Stylish handbag for everyday use
+18,Printed Scarf,Fashion,499,Mother;Sister;Partner,Fashion,Birthday,Beautiful scarf with an elegant print
+19,Minimalist Wallet,Fashion,799,Father;Brother;Partner,Fashion,Birthday,Compact wallet with multiple compartments
+20,Personalized Bracelet,Personalized,699,Friend;Sister;Partner,Fashion;Memories,Anniversary,Custom bracelet for someone special
+21,Novel Collection,Books,899,Friend;Mother;Sister,Reading,Birthday,Collection of interesting fiction novels
+22,Inspirational Book,Books,399,Friend;Mother;Father,Reading,Graduation,Book filled with motivational ideas
+23,Personalized Journal,Stationery,499,Friend;Sister;Mother,Writing;Art,Birthday,Beautiful journal for daily thoughts
+24,Reading Lamp,Home,599,Friend;Mother;Sister,Reading,Just Because,Compact lamp for comfortable reading
+25,Book Organizer,Stationery,699,Friend;Brother;Sister,Reading;Organization,Birthday,Organizer for books and stationery
+26,Travel Backpack,Travel,1499,Friend;Brother;Partner,Travel,Graduation,Spacious backpack for travel adventures
+27,Travel Neck Pillow,Travel,599,Friend;Mother;Father,Travel,Just Because,Comfortable pillow for long journeys
+28,Travel Toiletry Kit,Travel,499,Friend;Mother;Partner,Travel;Organization,Compact kit for travel essentials
+29,Personalized Luggage Tag,Travel,299,Friend;Brother;Sister,Travel;Memories,Birthday,Customized luggage tag for travelers
+30,Reusable Travel Bottle,Travel,399,Friend;Mother;Brother,Travel,Just Because,Reusable bottle for daily travel
+31,Badminton Racket,Sports,999,Friend;Brother;Sister,Sports,Birthday,Lightweight racket for badminton players
+32,Yoga Mat,Sports,799,Friend;Mother;Sister,Sports,Just Because,Comfortable mat for yoga and exercise
+33,Skipping Rope,Sports,299,Friend;Brother;Sister,Sports,Birthday,Durable skipping rope for fitness lovers
+34,Fitness Resistance Bands,Sports,499,Friend;Mother;Brother,Sports,Just Because,Resistance bands for home workouts
+35,Sports Water Bottle,Sports,349,Friend;Brother;Sister,Sports,Graduation,Durable bottle for sports activities
+36,Customized Photo Album,Personalized,799,Friend;Mother;Sister;Partner,Photography;Memories,Anniversary,Photo album for memorable moments
+37,Customized Coffee Mug,Personalized,349,Friend;Mother;Father;Sister,Memories,Birthday,Personalized mug with a special message
+38,Personalized Keychain,Personalized,199,Friend;Brother;Sister,Memories,Birthday,Customized keychain for everyday use
+39,Customized Cushion,Home,699,Friend;Mother;Partner,Memories,Anniversary,Decorative cushion with a personalized design
+40,Memory Scrapbook,Personalized,599,Friend;Sister;Partner,Art;Memories,Anniversary,Scrapbook for preserving special memories
+41,Coffee Gift Set,Food,899,Mother;Father;Friend,Cooking,Birthday,Gift set for coffee lovers
+42,Chocolate Gift Box,Food,499,Friend;Mother;Sister;Partner,Cooking,Birthday,Assorted chocolate gift box
+43,Cooking Utensil Set,Home,999,Mother;Father;Partner,Cooking,Anniversary,Useful kitchen utensil collection
+44,Recipe Book,Books,449,Mother;Father;Friend,Cooking,Birthday,Recipe book with cooking inspiration
+45,Indoor Plant,Home,399,Friend;Mother;Sister,Art;Memories,Just Because,Decorative indoor plant for home
+46,Decorative Table Clock,Home,899,Mother;Father;Friend,Fashion,Anniversary,Stylish clock for home decoration
+47,Scented Candle Set,Home,599,Mother;Sister;Partner,Fashion,Anniversary,Fragrant candles for relaxing evenings
+48,Skincare Gift Hamper,Personalized,1299,Mother;Sister;Partner,Fashion,Birthday,Gift hamper with everyday skincare essentials
+49,Mini Tripod Stand,Electronics,799,Friend;Brother;Sister,Photography;Technology,Graduation,Portable tripod for photography
+50,Instant Photo Printer,Electronics,3999,Friend;Sister;Partner,Photography;Technology,Birthday,Compact printer for instant photos
